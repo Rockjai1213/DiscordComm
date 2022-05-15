@@ -37,5 +37,5 @@ Commands:
 
 !notific [id] [message]
 
-!announce [message]
+
 
