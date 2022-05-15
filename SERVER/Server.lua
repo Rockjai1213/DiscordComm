@@ -518,7 +518,7 @@ function ExecuteCOMM(command)
                                   string.gsub(safecom,
                                               Config.Prefix .. "announce", "") ..
                                   " | 到 " .. GetNumPlayerIndices() ..
-                                  " 在伺服器裏的玩家", 16711680)
+                                  " 個在伺服器裏的玩家", 16711680)
 
             else
 
