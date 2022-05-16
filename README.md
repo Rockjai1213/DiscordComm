@@ -5,17 +5,17 @@ For using this script, you need to change the enviroment in Config.lua.
 
 Commands:
 
-!announce [message]
+!announce [message]   (announcement)
 
-!notific [id] [message]
+!notific [id] [message]  (DM player)
 
-!slay [id]
+!slay [id] (kill player)
 
 !revive [id]
 
 !playercount
 
-!kick [id]
+!kick [id]  (kill player out from server)
 
 !playerlist
 
